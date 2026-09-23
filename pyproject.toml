@@ -1,0 +1,9 @@
+[project]
+name = "screentime-wiki"
+version = "0.1.0"
+description = "A practical wiki for healthier screen time."
+requires-python = ">=3.12"
+dependencies = ["zensical"]
+
+[tool.uv]
+package = false
