@@ -1,0 +1,40 @@
+[project]
+site_name = "Screentime Solutions"
+site_description = "A practical wiki for reclaiming attention on every device."
+site_url = "https://screentime.solutions"
+nav = [
+  {"Start here" = "index.md"},
+  {"iPhone" = [
+    {"Overview" = "iphone/index.md"},
+    {"Password Locker" = "iphone/password-locker.md"},
+    {"Foqos" = "iphone/foqos.md"},
+    {"Shift Your Phone" = "iphone/shift-your-phone.md"},
+    {"Freedom" = "iphone/freedom.md"},
+    {"Covenant Eyes" = "iphone/covenant-eyes.md"},
+  ]},
+  {"Android" = [
+    {"Overview" = "android/index.md"},
+    {"Freedom" = "android/freedom.md"},
+    {"Covenant Eyes" = "android/covenant-eyes.md"},
+  ]},
+  {"iPad" = [
+    {"Overview" = "ipad/index.md"},
+    {"Foqos" = "ipad/foqos.md"},
+    {"Freedom" = "ipad/freedom.md"},
+    {"Covenant Eyes" = "ipad/covenant-eyes.md"},
+  ]},
+  {"Windows" = [
+    {"Overview" = "windows/index.md"},
+    {"Freedom" = "windows/freedom.md"},
+    {"Covenant Eyes" = "windows/covenant-eyes.md"},
+  ]},
+  {"Resources" = [
+    {"How to choose" = "resources/how-to-choose.md"},
+    {"Family setup" = "resources/family-setup.md"},
+  ]},
+]
+
+[project.theme]
+logo = "assets/screentime-mark.svg"
+favicon = "assets/screentime-mark.svg"
+features = ["navigation.tabs"]
