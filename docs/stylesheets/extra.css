@@ -1,0 +1,13 @@
+.md-header__source { width: auto; max-width: none; }
+.md-header .md-source {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .45rem 1rem;
+  border-radius: 999px;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+.md-header .md-source__icon { order: 2; width: auto; height: auto; display: flex; }
+.md-header .md-source__icon svg { margin: 0; }
+.md-header .md-source__repository { margin: 0; padding: 0; max-width: none; font-size: .7rem; }
