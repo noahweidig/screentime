@@ -2,8 +2,14 @@
 site_name = "Screentime Solutions"
 site_description = "A practical wiki for reclaiming attention on every device."
 site_url = "https://screentime.solutions"
+copyright = "© 2026 Screentime Solutions · Verify each provider's current terms before relying on a tool."
+repo_url = "https://github.com/noahweidig/screentime"
+repo_name = "noahweidig/screentime"
+edit_uri = "edit/main/docs/"
+extra_css = ["stylesheets/extra.css"]
 nav = [
   {"Start here" = "index.md"},
+  {"Basics" = "basics.md"},
   {"iPhone" = [
     {"Overview" = "iphone/index.md"},
     {"Password Locker" = "iphone/password-locker.md"},
@@ -31,10 +37,98 @@ nav = [
   {"Resources" = [
     {"How to choose" = "resources/how-to-choose.md"},
     {"Family setup" = "resources/family-setup.md"},
+    {"Tool comparison" = "resources/comparison.md"},
+    {"Accountability partners" = "resources/accountability.md"},
+    {"Troubleshooting" = "resources/troubleshooting.md"},
+    {"FAQ" = "resources/faq.md"},
   ]},
 ]
 
 [project.theme]
-logo = "assets/screentime-mark.svg"
-favicon = "assets/screentime-mark.svg"
-features = ["navigation.tabs"]
+favicon = "assets/favicon.svg"
+variant = "classic"
+language = "en"
+features = [
+  "navigation.tabs",
+  "navigation.sections",
+  "navigation.indexes",
+  "navigation.top",
+  "navigation.footer",
+  "navigation.path",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.tracking",
+  "toc.follow",
+  "search.suggest",
+  "search.highlight",
+  "content.code.copy",
+  "content.tabs.link",
+  "content.action.edit",
+  "header.autohide",
+]
+
+[project.theme.icon]
+logo = "lucide/hourglass"
+repo = "fontawesome/brands/github"
+edit = "lucide/pencil"
+view = "lucide/eye"
+previous = "lucide/arrow-left"
+next = "lucide/arrow-right"
+top = "lucide/arrow-up"
+
+[project.theme.font]
+text = "Inter"
+code = "JetBrains Mono"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.tables]
+[project.markdown_extensions.toc]
+permalink = true
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.highlight]
+[project.markdown_extensions.pymdownx.inlinehilite]
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.snippets]
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.extra]
+generator = false
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/noahweidig/screentime"
+name = "Source on GitHub"
+
+[[project.extra.social]]
+icon = "lucide/globe"
+link = "https://screentime.solutions"
+name = "screentime.solutions"

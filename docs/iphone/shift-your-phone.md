@@ -1,6 +1,12 @@
+---
+icon: lucide/rotate-ccw
+---
+
 # shiftyourphone.com
 
-**Role:** a guided approach for redesigning your relationship with your phone.
+!!! abstract "Role"
+
+    a guided approach for redesigning your relationship with your phone.
 
 Shift Your Phone is useful when the solution needs to be bigger than one blocked app. Pair the habit and environment changes it encourages with the technical limits already available on your iPhone.
 

@@ -1,4 +1,8 @@
-# iPad solutions
+---
+icon: lucide/tablet
+---
+
+# :lucide-tablet: iPad solutions
 
 An iPad can be a focused creative or learning device—or a larger, more comfortable distraction. Start with Screen Time, then choose a layer that matches who uses the tablet and when.
 

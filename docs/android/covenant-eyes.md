@@ -1,6 +1,12 @@
+---
+icon: lucide/eye
+---
+
 # Covenant Eyes on Android
 
-**Role:** add accountability and, where available, filtering support.
+!!! abstract "Role"
+
+    add accountability and, where available, filtering support.
 
 Covenant Eyes is a relationship-centered option: decide in advance who receives reports or helps with the setup, and make sure everyone understands the boundaries and privacy expectations.
 

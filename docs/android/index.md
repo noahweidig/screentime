@@ -1,4 +1,8 @@
-# Android solutions
+---
+icon: lucide/smartphone-nfc
+---
+
+# :lucide-smartphone-nfc: Android solutions
 
 Android's Digital Wellbeing controls are a helpful starting point. Because device makers and Android versions differ, check how your phone handles app permissions, device administration, and accessibility before depending on a blocker.
 
