@@ -13,6 +13,8 @@ tags:
 
 password-locker.com is best considered a companion to Apple's built-in Screen Time controls. Its value is not another block list; it is putting the key to your limits outside your immediate reach.
 
+[Visit Password Locker :lucide-external-link:](https://password-locker.com){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 ## Suggested setup
 
 1. Configure your Screen Time limits first.

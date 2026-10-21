@@ -14,6 +14,8 @@ tags:
 
 Covenant Eyes is a relationship-centered option: decide in advance who receives reports or helps with the setup, and make sure everyone understands the boundaries and privacy expectations.
 
+[Visit Covenant Eyes :lucide-external-link:](https://www.covenanteyes.com){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 ## Suggested setup
 
 1. Choose an accountability partner who can respond constructively.
