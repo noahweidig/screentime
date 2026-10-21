@@ -1,25 +1,124 @@
-# A calmer relationship with screens
+---
+icon: lucide/house
+hide:
+  - navigation
+  - toc
+---
 
-**Screentime Solutions** is a practical, device-by-device wiki for putting technology back in its place. Use it to choose blockers, accountability tools, and friction that fit your goals.
+<div class="hero" markdown>
 
-> Start with the device that most often steals your attention. The tabs above open a focused guide; the left-hand navigation lists every product guide for that device.
+# :lucide-hourglass: A calmer relationship with screens
+
+**Screentime Solutions** is a practical, device-by-device wiki for putting technology back in its place. Choose blockers, accountability tools, and friction that fit your goals.
+
+[Pick your device](#pick-your-device){ .md-button .md-button--primary }
+[Learn the basics](basics.md){ .md-button }
+
+</div>
 
 ## Pick your device
 
-| Device | Best for | Start here |
-| --- | --- | --- |
-| **iPhone** | Stronger limits around distracting apps and web access | [Explore iPhone solutions](iphone/index.md) |
-| **Android** | App blocking and accountability with Android controls | [Explore Android solutions](android/index.md) |
-| **iPad** | A more intentional tablet for home, school, or work | [Explore iPad solutions](ipad/index.md) |
-| **Windows** | Deep-work protection on a desktop or laptop | [Explore Windows solutions](windows/index.md) |
+<div class="grid cards" markdown>
+
+- :lucide-smartphone: **[iPhone](iphone/index.md)**
+
+    ---
+
+    Stronger limits around distracting apps and web access, built on Screen Time.
+
+- :lucide-smartphone-nfc: **[Android](android/index.md)**
+
+    ---
+
+    App blocking and accountability on top of Digital Wellbeing.
+
+- :lucide-tablet: **[iPad](ipad/index.md)**
+
+    ---
+
+    A more intentional tablet for home, school, or work.
+
+- :lucide-laptop: **[Windows](windows/index.md)**
+
+    ---
+
+    Deep-work protection on a desktop or laptop.
+
+</div>
 
 ## A simple approach
 
-1. **Name the distraction.** Is it a website, a social app, late-night scrolling, or something else?
-2. **Add enough friction.** Choose a limit that is difficult to bypass in a weak moment.
-3. **Invite support.** A trusted person can hold the password or receive accountability reports.
-4. **Review after a week.** Keep what helps, adjust what does not.
+<div class="grid cards" markdown>
+
+- :lucide-search: **1. Name the distraction**
+
+    ---
+
+    A website, a social app, late-night scrolling, or something else. Be specific.
+
+- :lucide-lock-keyhole: **2. Add enough friction**
+
+    ---
+
+    Pick a limit that is hard to bypass in a weak moment.
+
+- :lucide-users: **3. Invite support**
+
+    ---
+
+    A trusted person can hold the passcode or receive accountability reports.
+
+- :lucide-calendar-check: **4. Review after a week**
+
+    ---
+
+    Keep what helps. Change what doesn't.
+
+</div>
 
 ## Tools covered
 
-This wiki begins with [password-locker.com](iphone/password-locker.md), [Foqos](iphone/foqos.md), [shiftyourphone.com](iphone/shift-your-phone.md), [Freedom](iphone/freedom.md), and [Covenant Eyes](iphone/covenant-eyes.md). Product pages explain the role each tool can play rather than making a one-size-fits-all recommendation.
+<div class="grid cards" markdown>
+
+- :lucide-key-round: **[password-locker.com](iphone/password-locker.md)**
+
+    ---
+
+    Keeps your Screen Time passcode out of reach.
+
+- :lucide-scan-face: **[Foqos](iphone/foqos.md)**
+
+    ---
+
+    Structured Apple-device limits with a support-person workflow.
+
+- :lucide-rotate-ccw: **[shiftyourphone.com](iphone/shift-your-phone.md)**
+
+    ---
+
+    A guided reset for your phone habits.
+
+- :lucide-timer: **[Freedom](iphone/freedom.md)**
+
+    ---
+
+    Scheduled blocks for distracting apps and sites across devices.
+
+- :lucide-eye: **[Covenant Eyes](iphone/covenant-eyes.md)**
+
+    ---
+
+    Accountability and filtering options.
+
+</div>
+
+!!! tip "Not sure where to start?"
+
+    Read [How to choose](resources/how-to-choose.md), then compare tools side by side in the [comparison](resources/comparison.md).
+
+## More guides
+
+- :lucide-users-round: [Family setup](resources/family-setup.md) for shared plans with kids and teens
+- :lucide-handshake: [Accountability partners](resources/accountability.md) for choosing and working with one
+- :lucide-wrench: [Troubleshooting](resources/troubleshooting.md) for limits that stop working
+- :lucide-circle-help: [FAQ](resources/faq.md) for quick answers

@@ -1,0 +1,76 @@
+:root {
+  --md-text-font: "Inter", system-ui, sans-serif;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #3f7d7a;
+  --md-primary-fg-color--light: #5a9a97;
+  --md-primary-fg-color--dark: #2f6360;
+  --md-accent-fg-color: #3f7d7a;
+  --md-default-bg-color: #fbfbfa;
+  --md-default-fg-color: #2b2f33;
+  --md-default-fg-color--light: #5d646b;
+  --md-typeset-a-color: #2f6360;
+  --md-code-bg-color: #f1f2f0;
+  --md-footer-bg-color: #2b2f33;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 200;
+  --md-primary-fg-color: #1c2123;
+  --md-accent-fg-color: #7fc4bf;
+  --md-default-bg-color: #16191b;
+  --md-default-fg-color: #dfe3e4;
+  --md-default-fg-color--light: #9aa3a7;
+  --md-typeset-a-color: #7fc4bf;
+  --md-code-bg-color: #1f2427;
+  --md-footer-bg-color: #101213;
+}
+
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background: #fbfbfa;
+  color: #2b2f33;
+  box-shadow: 0 1px 0 #e6e8e6;
+}
+
+.md-header[data-md-state="shadow"] { box-shadow: 0 1px 0 var(--md-default-fg-color--lightest); }
+.md-header__button.md-logo svg { color: var(--md-accent-fg-color); }
+[data-md-color-scheme="default"] .md-header__button.md-logo svg { color: #3f7d7a; }
+.md-tabs__link { opacity: .7; }
+.md-tabs__link--active, .md-tabs__link:hover { opacity: 1; }
+
+.md-typeset h1 { font-weight: 650; letter-spacing: -0.02em; color: var(--md-default-fg-color); }
+.md-typeset h2 { font-weight: 600; letter-spacing: -0.01em; }
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem;
+  box-shadow: none;
+  overflow: hidden;
+}
+.md-typeset table:not([class]) th { background: var(--md-code-bg-color); font-weight: 600; }
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem;
+  transition: border-color .15s, transform .15s;
+}
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid > .card:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: none;
+  transform: translateY(-2px);
+}
+.md-typeset .grid.cards .lucide,
+.md-typeset .grid.cards .twemoji { color: var(--md-typeset-a-color); }
+
+.md-typeset .admonition, .md-typeset details {
+  border-radius: .5rem;
+  box-shadow: none;
+  border-width: 1px;
+}
+
+.md-typeset .hero { padding: 1rem 0 .5rem; }
+.md-typeset .hero p { font-size: 1.05rem; color: var(--md-default-fg-color--light); max-width: 40rem; }

@@ -1,0 +1,5 @@
+[default.extend-words]
+shiftyourphone = "shiftyourphone"
+
+[files]
+extend-exclude = ["site/"]

@@ -1,4 +1,8 @@
-# iPhone solutions
+---
+icon: lucide/smartphone
+---
+
+# :lucide-smartphone: iPhone solutions
 
 Apple's Screen Time is a useful foundation, but it is easiest to change when you are already holding the phone. Pair it with a tool that creates accountability or moves the passcode out of reach.
 
@@ -13,6 +17,10 @@ Apple's Screen Time is a useful foundation, but it is easiest to change when you
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | You want a trusted person involved in your plan |
 
 ## Start with the built-in controls
+
+!!! tip "Free and already installed"
+
+    Screen Time is the foundation. Set it up before paying for anything.
 
 1. In **Settings**, open **Screen Time** and turn it on.
 2. Configure Downtime, App Limits, and Content & Privacy Restrictions for your goal.

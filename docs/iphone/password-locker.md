@@ -1,6 +1,12 @@
+---
+icon: lucide/key-round
+---
+
 # password-locker.com
 
-**Role:** keep a Screen Time passcode somewhere you cannot retrieve impulsively.
+!!! abstract "Role"
+
+    keep a Screen Time passcode somewhere you cannot retrieve impulsively.
 
 password-locker.com is best considered a companion to Apple's built-in Screen Time controls. Its value is not another block list; it is putting the key to your limits outside your immediate reach.
 

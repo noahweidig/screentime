@@ -1,4 +1,8 @@
-# Windows solutions
+---
+icon: lucide/laptop
+---
+
+# :lucide-laptop: Windows solutions
 
 Windows is often where work and distraction overlap. Begin by deciding which sites and apps interrupt your most valuable work, then block them for specific periods rather than relying on willpower.
 

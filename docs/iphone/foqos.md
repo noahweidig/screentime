@@ -1,6 +1,12 @@
+---
+icon: lucide/scan-face
+---
+
 # Foqos
 
-**Role:** create stronger guardrails around an Apple device with a support-person workflow.
+!!! abstract "Role"
+
+    create stronger guardrails around an Apple device with a support-person workflow.
 
 Foqos can be a fit when Screen Time alone is too easy to change. Review its current device compatibility, plan options, and setup directions before relying on it for a household or a high-stakes goal.
 

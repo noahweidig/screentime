@@ -1,6 +1,12 @@
+---
+icon: lucide/timer
+---
+
 # Freedom on Android
 
-**Role:** schedule focused time by blocking selected distractions.
+!!! abstract "Role"
+
+    schedule focused time by blocking selected distractions.
 
 Freedom can help protect a recurring work, study, rest, or family block. Use it alongside—not instead of—clear notification settings and a device settings and a reliable lock screen that is not easy to override.
 
