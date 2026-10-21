@@ -13,6 +13,8 @@ tags:
 
 Foqos can be a fit when Screen Time alone is too easy to change. Review its current device compatibility, plan options, and setup directions before relying on it for a household or a high-stakes goal.
 
+[Visit Foqos :lucide-external-link:](https://foqos.app){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 ## Before you begin
 
 1. Agree on the purpose of the limits with the person who will provide support.

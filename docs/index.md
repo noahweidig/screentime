@@ -38,6 +38,12 @@ hide:
 
     A more intentional tablet for home, school, or work.
 
+- :lucide-laptop-minimal: **[Mac](mac/index.md)**
+
+    ---
+
+    Deep-work protection on a MacBook or desktop Mac.
+
 - :lucide-laptop: **[Windows](windows/index.md)**
 
     ---
@@ -97,6 +103,30 @@ hide:
     ---
 
     A guided reset for your phone habits.
+
+- :lucide-hourglass: **[one sec](iphone/one-sec.md)**
+
+    ---
+
+    A pause before distracting apps open.
+
+- :lucide-scan-eye: **[ScreenZen](iphone/screenzen.md)**
+
+    ---
+
+    Free delays, goals and schedules.
+
+- :lucide-lock-keyhole: **[Cold Turkey](windows/cold-turkey.md)**
+
+    ---
+
+    Hard-to-undo blocks on Windows and Mac.
+
+- :lucide-timer-off: **[SelfControl](mac/selfcontrol.md)**
+
+    ---
+
+    A free timed website blocker for Mac.
 
 - :lucide-timer: **[Freedom](iphone/freedom.md)**
 

@@ -13,6 +13,8 @@ tags:
 
 Freedom can help protect a recurring work, study, rest, or family block. Use it alongside—not instead of—clear notification settings and a Windows account and focus settings that is not easy to override.
 
+[Visit Freedom :lucide-external-link:](https://freedom.to){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 ## Suggested setup
 
 1. Start with the two or three apps or sites that most often interrupt you.

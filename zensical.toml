@@ -14,11 +14,14 @@ nav = [
     {"Password Locker" = "iphone/password-locker.md"},
     {"Foqos" = "iphone/foqos.md"},
     {"Shift Your Phone" = "iphone/shift-your-phone.md"},
+    {"one sec" = "iphone/one-sec.md"},
+    {"ScreenZen" = "iphone/screenzen.md"},
     {"Freedom" = "iphone/freedom.md"},
     {"Covenant Eyes" = "iphone/covenant-eyes.md"},
   ]},
   {"Android" = [
     {"Overview" = "android/index.md"},
+    {"one sec" = "android/one-sec.md"},
     {"Freedom" = "android/freedom.md"},
     {"Covenant Eyes" = "android/covenant-eyes.md"},
   ]},
@@ -28,8 +31,16 @@ nav = [
     {"Freedom" = "ipad/freedom.md"},
     {"Covenant Eyes" = "ipad/covenant-eyes.md"},
   ]},
+  {"Mac" = [
+    {"Overview" = "mac/index.md"},
+    {"Cold Turkey" = "mac/cold-turkey.md"},
+    {"SelfControl" = "mac/selfcontrol.md"},
+    {"Freedom" = "mac/freedom.md"},
+    {"Covenant Eyes" = "mac/covenant-eyes.md"},
+  ]},
   {"Windows" = [
     {"Overview" = "windows/index.md"},
+    {"Cold Turkey" = "windows/cold-turkey.md"},
     {"Freedom" = "windows/freedom.md"},
     {"Covenant Eyes" = "windows/covenant-eyes.md"},
   ]},
@@ -116,5 +127,5 @@ generator = false
 
 [[project.extra.social]]
 icon = "lucide/globe"
-link = "https://screentime.solutions"
-name = "screentime.solutions"
+link = "https://noahweidig.com/screentime/"
+name = "noahweidig.com/screentime"

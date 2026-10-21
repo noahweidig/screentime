@@ -14,6 +14,8 @@ tags:
 
 Shift Your Phone is useful when the solution needs to be bigger than one blocked app. Pair the habit and environment changes it encourages with the technical limits already available on your iPhone.
 
+[Visit SHIFT :lucide-external-link:](https://shiftyourphone.com){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 ## A practical reset
 
 - Remove the most reflexive apps from the home screen.
