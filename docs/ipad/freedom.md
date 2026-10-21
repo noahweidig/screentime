@@ -20,4 +20,4 @@ Freedom can help protect a recurring work, study, rest, or family block. Use it 
 3. Test that your essential calls, maps, and work tools still function as intended.
 4. Expand only after the first block becomes routine.
 
-See the [Windows guide](../windows/freedom.md) if you want your computer focus sessions to match.
+See the [Mac guide](../mac/freedom.md) or [Windows guide](../windows/freedom.md) if you want your computer focus sessions to match.

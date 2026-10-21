@@ -28,6 +28,11 @@ nav = [
     {"Freedom" = "ipad/freedom.md"},
     {"Covenant Eyes" = "ipad/covenant-eyes.md"},
   ]},
+  {"Mac" = [
+    {"Overview" = "mac/index.md"},
+    {"Freedom" = "mac/freedom.md"},
+    {"Covenant Eyes" = "mac/covenant-eyes.md"},
+  ]},
   {"Windows" = [
     {"Overview" = "windows/index.md"},
     {"Freedom" = "windows/freedom.md"},
@@ -116,5 +121,5 @@ generator = false
 
 [[project.extra.social]]
 icon = "lucide/globe"
-link = "https://screentime.solutions"
-name = "screentime.solutions"
+link = "https://noahweidig.com/screentime/"
+name = "noahweidig.com/screentime"

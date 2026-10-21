@@ -38,6 +38,12 @@ hide:
 
     A more intentional tablet for home, school, or work.
 
+- :lucide-laptop-minimal: **[Mac](mac/index.md)**
+
+    ---
+
+    Deep-work protection on a MacBook or desktop Mac.
+
 - :lucide-laptop: **[Windows](windows/index.md)**
 
     ---

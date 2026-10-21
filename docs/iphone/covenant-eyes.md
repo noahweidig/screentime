@@ -21,4 +21,4 @@ Covenant Eyes is a relationship-centered option: decide in advance who receives 
 3. Install and test the service before depending on it.
 4. Set a regular check-in that focuses on progress, not shame.
 
-For desktop coverage, also see [Covenant Eyes on Windows](../windows/covenant-eyes.md).
+For desktop coverage, also see [Covenant Eyes on Mac](../mac/covenant-eyes.md) or [Covenant Eyes on Windows](../windows/covenant-eyes.md).
