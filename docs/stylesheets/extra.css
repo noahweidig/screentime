@@ -89,3 +89,20 @@
   border-color: var(--md-accent-fg-color);
   color: #16191b;
 }
+
+.md-header__source { margin-left: .8rem; }
+.md-header .md-source {
+  display: flex;
+  align-items: center;
+  padding: 0 .9rem 0 .2rem;
+  height: 1.9rem;
+  font-size: .7rem;
+  font-weight: 600;
+  border-radius: 999px;
+  background: var(--md-accent-fg-color);
+  color: #fff;
+}
+.md-header .md-source:hover { opacity: .85; }
+[data-md-color-scheme="slate"] .md-header .md-source { color: #16191b; }
+.md-header .md-source__icon { height: 1.9rem; width: 1.9rem; }
+.md-header .md-source__icon svg { margin-top: .35rem; }
