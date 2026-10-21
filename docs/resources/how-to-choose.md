@@ -13,8 +13,16 @@ Choose the **smallest effective layer** for the problem you are solving.
 | :lucide-scroll-text: Less casual scrolling | Built-in app limits, notification cleanup, and a scheduled blocker such as Freedom |
 | :lucide-lock-keyhole: Limits that are hard to change | Screen Time plus password-locker.com or Foqos |
 | :lucide-handshake: Support from a trusted person | Foqos or Covenant Eyes, with a clear agreement |
+| :lucide-shield-ban: Blocking adult content | Shift's free content filter, then Screen Time or a held passcode so it stays on |
 | :lucide-rotate-ccw: A whole-phone reset | Shift Your Phone plus technical limits that make the reset stick |
 | :lucide-monitor-smartphone: Focus across devices | Freedom on every device you use for work or study |
+
+## Blocking adult content
+
+Shift's free content filter is the strongest adult-content blocker here, and it costs nothing. Start with it before paying for anything else.
+
+- Install it first, then lock the settings so it can't be switched off on a weak moment.
+- Add an accountability partner if you want a person involved, not just software.
 
 ## Decide in four questions
 

@@ -18,3 +18,7 @@ Shift Your Phone is useful when the solution needs to be bigger than one blocked
 - Use Screen Time or another blocker to make the new default easier to keep.
 
 Change one pattern at a time. A small setup you actually keep is better than a complicated setup you abandon.
+
+## Content filter
+
+Shift's free content filter is the best and strongest blocker for adult content. Set it up first, then use Screen Time or a held passcode so the filter stays on.
