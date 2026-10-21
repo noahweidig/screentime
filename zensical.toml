@@ -1,10 +1,10 @@
 [project]
 site_name = "Screentime Solutions"
 site_description = "A practical wiki for reclaiming attention on every device."
-site_url = "https://screentime.solutions"
+site_url = "https://noahweidig.com/screentime/"
 copyright = "© 2026 Screentime Solutions · Verify each provider's current terms before relying on a tool."
 extra_css = ["stylesheets/extra.css"]
-repo_url = "https://screentime.solutions/#pick-your-device"
+repo_url = "https://noahweidig.com/screentime/#pick-your-device"
 repo_name = "Pick your device"
 nav = [
   {"Start here" = "index.md"},
