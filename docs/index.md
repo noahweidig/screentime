@@ -104,6 +104,30 @@ hide:
 
     A guided reset for your phone habits.
 
+- :lucide-hourglass: **[one sec](iphone/one-sec.md)**
+
+    ---
+
+    A pause before distracting apps open.
+
+- :lucide-scan-eye: **[ScreenZen](iphone/screenzen.md)**
+
+    ---
+
+    Free delays, goals and schedules.
+
+- :lucide-lock-keyhole: **[Cold Turkey](windows/cold-turkey.md)**
+
+    ---
+
+    Hard-to-undo blocks on Windows and Mac.
+
+- :lucide-timer-off: **[SelfControl](mac/selfcontrol.md)**
+
+    ---
+
+    A free timed website blocker for Mac.
+
 - :lucide-timer: **[Freedom](iphone/freedom.md)**
 
     ---

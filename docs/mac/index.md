@@ -10,6 +10,8 @@ A Mac is often where work and distraction overlap. Begin by deciding which sites
 
 | Product | What it adds | Good fit when… |
 | --- | --- | --- |
+| [Cold Turkey](cold-turkey.md) | Hard-to-undo blocks for sites and apps | You need blocks that hold in a weak moment |
+| [SelfControl](selfcontrol.md) | Free timed website blocking | You want a simple free blocker |
 | [Freedom](freedom.md) | Cross-device sessions for distracting sites and apps | You want focused work blocks on your computer |
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | You want support beyond a simple block list |
 

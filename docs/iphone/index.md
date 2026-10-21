@@ -13,6 +13,8 @@ Apple's Screen Time is a useful foundation, but it is easiest to change when you
 | [password-locker.com](password-locker.md) | A place for a trusted person to hold the Screen Time passcode | You want the native Apple controls to be harder to undo |
 | [Foqos](foqos.md) | Structured iPhone limits with a support-person workflow | You need more friction around apps and settings |
 | [shiftyourphone.com](shift-your-phone.md) | A deliberate setup process for changing phone habits | You want help designing a less distracting phone |
+| [one sec](one-sec.md) | A pause before chosen apps open | You open apps on reflex |
+| [ScreenZen](screenzen.md) | Free delays, goals and schedules | You want friction without paying |
 | [Freedom](freedom.md) | Scheduled blocks for distracting apps and sites | You work best with planned focus sessions |
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | You want a trusted person involved in your plan |
 

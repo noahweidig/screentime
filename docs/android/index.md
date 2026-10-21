@@ -10,6 +10,7 @@ Android's Digital Wellbeing controls are a helpful starting point. Because devic
 
 | Product | What it adds | Good fit when… |
 | --- | --- | --- |
+| [one sec](one-sec.md) | A pause before chosen apps open | You open apps on reflex |
 | [Freedom](freedom.md) | Planned blocks across apps and websites | You want a repeatable focus schedule |
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | A trusted person should be part of the plan |
 
