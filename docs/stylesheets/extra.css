@@ -1,19 +1,1 @@
-.md-header__source { margin-left: .8rem; }
-.md-header .md-source {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: .4rem;
-  padding: 0 1.1rem;
-  height: 1.9rem;
-  font-size: .7rem;
-  font-weight: 600;
-  border-radius: 999px;
-  background: var(--md-primary-bg-color);
-  color: var(--md-primary-fg-color);
-}
-.md-header .md-source__icon { order: 2; width: auto; height: auto; display: flex; }
-.md-header .md-source__icon svg { margin: 0; height: 1rem; width: 1rem; }
-.md-header .md-source__icon + .md-source__repository { margin: 0; padding: 0; max-width: none; }
-
 .md-typeset .hero .md-button { margin: 0 .4rem .6rem 0; }

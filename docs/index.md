@@ -7,7 +7,7 @@ hide:
 
 <div class="hero" markdown>
 
-# :lucide-hourglass: A calmer relationship with screens
+# A calmer relationship with screens
 
 **Screentime Solutions** is a practical, device-by-device wiki for putting technology back in its place. Choose blockers, accountability tools, and friction that fit your goals.
 
