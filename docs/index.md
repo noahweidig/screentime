@@ -16,7 +16,7 @@ hide:
 
 </div>
 
-## Pick your device
+## :lucide-smartphone: Pick your device {#pick-your-device}
 
 <div class="grid cards" markdown>
 
@@ -52,7 +52,7 @@ hide:
 
 </div>
 
-## A simple approach
+## :lucide-route: A simple approach
 
 <div class="grid cards" markdown>
 
@@ -82,7 +82,7 @@ hide:
 
 </div>
 
-## Tools covered
+## :lucide-wrench: Tools covered
 
 <div class="grid cards" markdown>
 
@@ -146,7 +146,7 @@ hide:
 
     Read [How to choose](resources/how-to-choose.md), then compare tools side by side in the [comparison](resources/comparison.md).
 
-## More guides
+## :lucide-book-open: More guides
 
 - :lucide-users-round: [Family setup](resources/family-setup.md) for shared plans with kids and teens
 - :lucide-handshake: [Accountability partners](resources/accountability.md) for choosing and working with one

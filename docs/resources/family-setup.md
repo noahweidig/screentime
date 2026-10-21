@@ -2,18 +2,18 @@
 icon: lucide/users-round
 ---
 
-# Family setup checklist
+# :lucide-users-round: Family setup checklist
 
 A family setup works best as a shared plan, not a surprise restriction.
 
-## Before installing anything
+## :lucide-clipboard-check: Before installing anything
 
 - [ ] Agree on the goal: sleep, schoolwork, online safety, or more present time together.
 - [ ] Match rules to the child's age and the device's purpose.
 - [ ] Decide who knows each passcode and who can approve an exception.
 - [ ] Explain what is monitored, what is blocked, and why.
 
-## Suggested rules by stage
+## :lucide-list-ordered: Suggested rules by stage
 
 === ":lucide-baby: Young children"
 
@@ -33,13 +33,13 @@ A family setup works best as a shared plan, not a surprise restriction.
     - Fewer blocks, more check-ins.
     - Protect sleep: phones charge outside the bedroom.
 
-## Hold the keys
+## :lucide-key-round: Hold the keys
 
 !!! tip "Passcode custody"
 
     A child who knows the passcode has no limit. Use a code they have never seen, and store recovery details with the adult, not on the restricted device. [password-locker.com](../iphone/password-locker.md) is one option on iPhone.
 
-## Maintain the plan
+## :lucide-calendar-check: Maintain the plan
 
 Schedule a short weekly review. Ask what is working, which exceptions came up, and whether the rules need to change. Keep emergency contact and recovery information away from the restricted device.
 

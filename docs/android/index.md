@@ -6,7 +6,7 @@ icon: lucide/smartphone-nfc
 
 Android's Digital Wellbeing controls are a helpful starting point. Because device makers and Android versions differ, check how your phone handles app permissions, device administration, and accessibility before depending on a blocker.
 
-## Android product guide
+## :lucide-table-2: Android product guide
 
 | Product | What it adds | Good fit when… |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ Android's Digital Wellbeing controls are a helpful starting point. Because devic
 | [Freedom](freedom.md) | Planned blocks across apps and websites | You want a repeatable focus schedule |
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | A trusted person should be part of the plan |
 
-## Baseline setup
+## :lucide-list-checks: Baseline setup
 
 1. Turn on **Digital Wellbeing** and review your most-used apps.
 2. Add Focus mode or app timers for obvious distractions.

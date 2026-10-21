@@ -6,7 +6,7 @@ icon: lucide/smartphone
 
 Apple's Screen Time is a useful foundation, but it is easiest to change when you are already holding the phone. Pair it with a tool that creates accountability or moves the passcode out of reach.
 
-## iPhone product guide
+## :lucide-table-2: iPhone product guide
 
 | Product | What it adds | Good fit when… |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Apple's Screen Time is a useful foundation, but it is easiest to change when you
 | [Freedom](freedom.md) | Scheduled blocks for distracting apps and sites | You work best with planned focus sessions |
 | [Covenant Eyes](covenant-eyes.md) | Accountability and filtering options | You want a trusted person involved in your plan |
 
-## Start with the built-in controls
+## :lucide-shield-check: Start with the built-in controls
 
 !!! tip "Free and already installed"
 

@@ -2,9 +2,9 @@
 icon: lucide/wrench
 ---
 
-# Troubleshooting
+# :lucide-wrench: Troubleshooting
 
-## Limits stopped working
+## :lucide-wrench: Limits stopped working
 
 ??? question "A blocked app opens anyway"
 
@@ -26,7 +26,7 @@ icon: lucide/wrench
 
     Reopen the app, re-grant permissions, and confirm the block still runs. Test after every major update.
 
-## Test routine
+## :lucide-flask-conical: Test routine
 
 - [x] Trigger the block on purpose.
 - [x] Request an exception.
