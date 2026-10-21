@@ -109,3 +109,5 @@
 .md-header .md-source__icon { order: 2; width: auto; height: auto; display: flex; }
 .md-header .md-source__icon svg { margin: 0; height: 1rem; width: 1rem; }
 .md-header .md-source__icon + .md-source__repository { margin: 0; padding: 0; max-width: none; }
+
+.md-typeset .hero .md-button { margin: 0 .4rem .6rem 0; }
