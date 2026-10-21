@@ -1,5 +1,8 @@
 ---
 icon: lucide/timer
+tags:
+  - iPad
+  - Scheduled blocker
 ---
 
 # Freedom on iPad

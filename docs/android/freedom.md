@@ -1,5 +1,8 @@
 ---
 icon: lucide/timer
+tags:
+  - Android
+  - Scheduled blocker
 ---
 
 # Freedom on Android

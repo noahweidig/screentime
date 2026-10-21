@@ -1,5 +1,8 @@
 ---
 icon: lucide/timer
+tags:
+  - iPhone
+  - Scheduled blocker
 ---
 
 # Freedom on iPhone

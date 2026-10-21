@@ -1,5 +1,9 @@
 ---
 icon: lucide/rotate-ccw
+tags:
+  - iPhone
+  - Habit reset
+  - Content filter
 ---
 
 # shiftyourphone.com
