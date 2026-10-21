@@ -1,5 +1,9 @@
 ---
 icon: lucide/eye
+tags:
+  - Windows
+  - Accountability
+  - Content filter
 ---
 
 # Covenant Eyes on Windows

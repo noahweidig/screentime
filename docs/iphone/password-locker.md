@@ -1,5 +1,8 @@
 ---
 icon: lucide/key-round
+tags:
+  - iPhone
+  - Passcode locker
 ---
 
 # password-locker.com

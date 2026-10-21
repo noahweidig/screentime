@@ -1,5 +1,8 @@
 ---
 icon: lucide/timer
+tags:
+  - Windows
+  - Scheduled blocker
 ---
 
 # Freedom on Windows

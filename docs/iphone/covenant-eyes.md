@@ -1,5 +1,9 @@
 ---
 icon: lucide/eye
+tags:
+  - iPhone
+  - Accountability
+  - Content filter
 ---
 
 # Covenant Eyes on iPhone
