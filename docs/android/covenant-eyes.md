@@ -1,5 +1,9 @@
 ---
 icon: lucide/eye
+tags:
+  - Android
+  - Accountability
+  - Content filter
 ---
 
 # Covenant Eyes on Android

@@ -1,5 +1,8 @@
 ---
 icon: lucide/scan-face
+tags:
+  - iPhone
+  - Physical lock
 ---
 
 # Foqos

@@ -1,5 +1,8 @@
 ---
 icon: lucide/scan-face
+tags:
+  - iPad
+  - Physical lock
 ---
 
 # Foqos on iPad
