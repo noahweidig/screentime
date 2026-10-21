@@ -3,6 +3,7 @@ site_name = "Screentime Solutions"
 site_description = "A practical wiki for reclaiming attention on every device."
 site_url = "https://screentime.solutions"
 copyright = "© 2026 Screentime Solutions · Verify each provider's current terms before relying on a tool."
+extra_css = ["stylesheets/extra.css"]
 repo_url = "https://screentime.solutions/#pick-your-device"
 repo_name = "Pick your device"
 nav = [
@@ -61,7 +62,6 @@ features = [
   "search.highlight",
   "content.code.copy",
   "content.tabs.link",
-  "header.autohide",
 ]
 
 [project.theme.icon]
@@ -78,16 +78,12 @@ code = "JetBrains Mono"
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
-primary = "white"
-accent = "teal"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
-primary = "black"
-accent = "teal"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
