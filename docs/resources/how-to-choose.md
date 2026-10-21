@@ -2,11 +2,11 @@
 icon: lucide/route
 ---
 
-# How to choose a solution
+# :lucide-route: How to choose a solution
 
 Choose the **smallest effective layer** for the problem you are solving.
 
-## Match the need
+## :lucide-search: Match the need
 
 | Need | Start with |
 | --- | --- |
@@ -17,21 +17,21 @@ Choose the **smallest effective layer** for the problem you are solving.
 | :lucide-rotate-ccw: A whole-phone reset | Shift Your Phone plus technical limits that make the reset stick |
 | :lucide-monitor-smartphone: Focus across devices | Freedom on every device you use for work or study |
 
-## Blocking adult content
+## :lucide-shield-ban: Blocking adult content
 
 Shift's free content filter is the strongest adult-content blocker here, and it costs nothing. Start with it before paying for anything else.
 
 - Install it first, then lock the settings so it can't be switched off on a weak moment.
 - Add an accountability partner if you want a person involved, not just software.
 
-## Decide in four questions
+## :lucide-circle-help: Decide in four questions
 
 1. **How strong must the limit be?** A nudge needs a built-in timer. A hard stop needs a held passcode.
 2. **Who is it for?** Yourself, a partner, or a child changes the setup and the conversation.
 3. **Which devices?** Gaps between devices are where limits leak.
 4. **Who supports you?** Pick the person before the product.
 
-## Compare before committing
+## :lucide-git-compare: Compare before committing
 
 !!! note "Check before you pay"
 

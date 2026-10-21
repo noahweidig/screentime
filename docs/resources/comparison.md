@@ -2,23 +2,23 @@
 icon: lucide/git-compare
 ---
 
-# Tool comparison
+# :lucide-git-compare: Tool comparison
 
 Roles, not rankings. Confirm current platforms and pricing on each provider's site.
 
 | Tool | Role | Best when | Devices covered here |
 | --- | --- | --- | --- |
 | :lucide-key-round: [password-locker.com](../iphone/password-locker.md) | Holds the Screen Time passcode | You need limits you cannot undo on impulse | iPhone |
-| :lucide-scan-face: [Foqos](../iphone/foqos.md) | Guardrails with a support-person workflow | Screen Time alone is too easy to change | iPhone, iPad |
+| :lucide-scan-face: [Foqos](../iphone/foqos.md) | Guardrails with a support-person workflow | Screen Time alone is too easy to change | iPhone |
 | :lucide-rotate-ccw: [shiftyourphone.com](../iphone/shift-your-phone.md) | Guided phone reset | You want to redesign phone habits | iPhone |
 | :lucide-hourglass: [one sec](../iphone/one-sec.md) | Pause before apps open | You open apps on reflex | iPhone, Android |
-| :lucide-scan-eye: [ScreenZen](../iphone/screenzen.md) | Free friction and limits | You want delays without paying | iPhone |
+| :lucide-scan-eye: [ScreenZen](../iphone/screenzen.md) | Free friction and limits | You want delays without paying | iPhone, iPad, Mac |
 | :lucide-lock-keyhole: [Cold Turkey](../windows/cold-turkey.md) | Hard-to-undo computer blocks | Blocks must hold in a weak moment | Mac, Windows |
 | :lucide-timer-off: [SelfControl](../mac/selfcontrol.md) | Free timed website blocker | You want a simple free Mac blocker | Mac |
 | :lucide-timer: [Freedom](../iphone/freedom.md) | Scheduled blocks | You work best with planned focus sessions | iPhone, iPad, Android, Mac, Windows |
 | :lucide-eye: [Covenant Eyes](../iphone/covenant-eyes.md) | Accountability and filtering | A trusted person should be involved | iPhone, iPad, Android, Mac, Windows |
 
-## Combinations that work
+## :lucide-blocks: Combinations that work
 
 <div class="grid cards" markdown>
 

@@ -2,11 +2,11 @@
 icon: lucide/handshake
 ---
 
-# Accountability partners
+# :lucide-handshake: Accountability partners
 
 A good partner makes limits stick. A poor fit makes you hide things.
 
-## Choose well
+## :lucide-list-checks: Choose well
 
 <div class="grid cards" markdown>
 
@@ -30,7 +30,7 @@ A good partner makes limits stick. A poor fit makes you hide things.
 
 </div>
 
-## Write a short agreement
+## :lucide-file-pen-line: Write a short agreement
 
 1. What is restricted, and when.
 2. What counts as a valid exception.
@@ -38,7 +38,7 @@ A good partner makes limits stick. A poor fit makes you hide things.
 4. What the partner sees, and what they do with it.
 5. When you will review the agreement.
 
-## Check-in format
+## :lucide-message-circle: Check-in format
 
 !!! tip "Keep it to 10 minutes"
 
@@ -48,7 +48,7 @@ A good partner makes limits stick. A poor fit makes you hide things.
 
 Focus on progress, not shame.
 
-## When it isn't working
+## :lucide-wrench: When it isn't working
 
 - Requests take too long: add a backup person.
 - Check-ins feel punitive: reset the format.

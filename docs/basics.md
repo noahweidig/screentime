@@ -2,11 +2,11 @@
 icon: lucide/book-open
 ---
 
-# Basics
+# :lucide-book-open: Basics
 
 Four ideas cover most of what works. Everything else in this wiki applies them to a specific device or tool.
 
-## Core principles
+## :lucide-compass: Core principles
 
 <div class="grid cards" markdown>
 
@@ -36,7 +36,7 @@ Four ideas cover most of what works. Everything else in this wiki applies them t
 
 </div>
 
-## The layers
+## :lucide-layers: The layers
 
 | Layer | Examples | Strength |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Four ideas cover most of what works. Everything else in this wiki applies them t
 | :lucide-lock-keyhole: Passcode custody | [password-locker.com](iphone/password-locker.md) | Limits you cannot casually reverse |
 | :lucide-users: People | [Covenant Eyes](iphone/covenant-eyes.md), a trusted partner | Strongest for high-stakes goals |
 
-## Set a goal first
+## :lucide-target: Set a goal first
 
 !!! example "Weak goal vs. strong goal"
 
@@ -55,7 +55,7 @@ Four ideas cover most of what works. Everything else in this wiki applies them t
 
 A measurable rule tells you which tool to use and when it has failed.
 
-## Common mistakes
+## :lucide-triangle-alert: Common mistakes
 
 !!! warning "Watch for these"
 
@@ -64,7 +64,7 @@ A measurable rule tells you which tool to use and when it has failed.
     - Blocking apps without a replacement activity.
     - Restricting a child's device without explaining why.
 
-## Next steps
+## :lucide-arrow-right: Next steps
 
 - :lucide-route: [How to choose a solution](resources/how-to-choose.md)
 - :lucide-git-compare: [Compare the tools](resources/comparison.md)
