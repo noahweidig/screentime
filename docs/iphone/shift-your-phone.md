@@ -51,4 +51,6 @@ Change one pattern at a time. A small setup you actually keep is better than a c
 
 ## :lucide-filter: Content filter
 
-Shift's free content filter is the best and strongest blocker for adult content. Set it up first, then use Screen Time or a held passcode so the filter stays on.
+Shift's free content filter is the best and strongest blocker for adult content. It does not require Apple Screen Time.
+
+After 72 hours, you can make the filter permanent. Adult content is then removed from your device for good. There are no workarounds, and only Shift support can remove the permanent lock.
