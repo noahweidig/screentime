@@ -37,6 +37,8 @@ Foqos can be a fit when Screen Time alone is too easy to change. Review its curr
 - The site says Foqos is made for iPhone and does not support Android.
 - It does not say what happens if you lose the tag or code. Plan a backup before you rely on it.
 - Its ratings and press quotes are promotional.
+- The site links a separate Foqos for Mac page but gives no details here. Check it before assuming Mac support.
+- For Android, the site points to independent apps (Switchly and Lock) that are not affiliated with Foqos.
 
 ## :lucide-clipboard-check: Before you begin
 

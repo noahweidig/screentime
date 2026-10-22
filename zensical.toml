@@ -45,6 +45,8 @@ nav = [
     {"Covenant Eyes" = "windows/covenant-eyes.md"},
   ]},
   {"Resources" = [
+    {"Glossary" = "resources/glossary.md"},
+    {"Cheat sheet" = "resources/cheat-sheet.md"},
     {"How to choose" = "resources/how-to-choose.md"},
     {"Family setup" = "resources/family-setup.md"},
     {"Tool comparison" = "resources/comparison.md"},
@@ -67,11 +69,18 @@ features = [
   "navigation.path",
   "navigation.instant",
   "navigation.instant.prefetch",
+  "navigation.instant.preview",
+  "navigation.instant.progress",
+  "navigation.tabs.sticky",
   "navigation.tracking",
   "toc.follow",
   "search.suggest",
   "search.highlight",
   "content.code.copy",
+  "content.code.annotate",
+  "content.tooltips",
+  "content.footnote.tooltips",
+  "content.action.view",
   "content.tabs.link",
 ]
 
@@ -111,12 +120,21 @@ permalink = true
 [project.markdown_extensions.pymdownx.highlight]
 [project.markdown_extensions.pymdownx.inlinehilite]
 [project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  {name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format"},
+]
 [project.markdown_extensions.pymdownx.snippets]
+base_path = ["includes"]
+auto_append = ["glossary.md"]
 [project.markdown_extensions.pymdownx.tabbed]
 alternate_style = true
 [project.markdown_extensions.pymdownx.tasklist]
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.pymdownx.smartsymbols]
+[project.markdown_extensions.pymdownx.betterem]
 [project.markdown_extensions.pymdownx.keys]
 [project.markdown_extensions.pymdownx.emoji]
 emoji_index = "zensical.extensions.emoji.twemoji"
