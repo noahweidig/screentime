@@ -7,12 +7,27 @@ hide:
 
 <div class="hero" markdown>
 
+<div class="hero__text" markdown>
+
 # A calmer relationship with screens
 
 **Screentime Solutions** is a practical, device-by-device wiki for putting technology back in its place. Choose blockers, accountability tools, and friction that fit your goals.
 
 [Pick your device](#pick-your-device){ .md-button .md-button--primary }
 [Learn the basics](basics.md){ .md-button }
+
+</div>
+
+<div class="hero__art" aria-hidden="true" markdown>
+<div class="hero__phone">
+<div class="hero__ring"></div>
+<div class="hero__time">25:00</div>
+<div class="hero__label">Focus session</div>
+</div>
+<div class="hero__chip hero__chip--a" markdown>:lucide-shield-check: Sites blocked</div>
+<div class="hero__chip hero__chip--b" markdown>:lucide-lock: Passcode held</div>
+<div class="hero__chip hero__chip--c" markdown>:lucide-users: Partner notified</div>
+</div>
 
 </div>
 

@@ -11,3 +11,26 @@
 .md-header .md-source__icon { order: 2; width: auto; height: auto; display: flex; }
 .md-header .md-source__icon svg { margin: 0; }
 .md-header .md-source__repository { margin: 0; padding: 0; max-width: none; font-size: .7rem; }
+
+.md-header .md-source { padding: .25rem .7rem; gap: .25rem; }
+.md-header .md-source__repository { font-size: .62rem; }
+.md-header .md-source__icon svg { width: .9rem; height: .9rem; }
+
+.hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 2rem; align-items: center; padding: 1rem 0 2rem; }
+.hero__text h1 { margin-top: 0; }
+.hero__art { position: relative; justify-self: center; width: 100%; max-width: 17rem; aspect-ratio: 1; display: grid; place-items: center; }
+.hero__art::before { content: ""; position: absolute; inset: 6%; border-radius: 50%; background: radial-gradient(circle, color-mix(in srgb, var(--md-primary-fg-color) 22%, transparent), transparent 70%); }
+.hero__phone { position: relative; width: 52%; aspect-ratio: 9/17; border-radius: 1.6rem; border: .4rem solid var(--md-primary-fg-color); background: var(--md-default-bg-color); box-shadow: 0 1.2rem 2.5rem rgba(0,0,0,.18); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .6rem; }
+.hero__ring { width: 62%; aspect-ratio: 1; border-radius: 50%; background: conic-gradient(var(--md-primary-fg-color) 0 72%, var(--md-default-fg-color--lightest) 0); -webkit-mask: radial-gradient(circle, transparent 58%, #000 60%); mask: radial-gradient(circle, transparent 58%, #000 60%); }
+.hero__time { position: absolute; top: 40%; font-weight: 700; font-size: 1rem; }
+.hero__label { font-size: .6rem; color: var(--md-default-fg-color--light); }
+.hero__chip { position: absolute; display: inline-flex; align-items: center; gap: .3rem; padding: .35rem .7rem; border-radius: 999px; font-size: .62rem; font-weight: 600; background: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--lightest); box-shadow: 0 .4rem 1rem rgba(0,0,0,.12); white-space: nowrap; }
+.hero__chip .twemoji svg { width: .8rem; height: .8rem; fill: var(--md-primary-fg-color); }
+.hero__chip p { margin: 0; display: inline-flex; align-items: center; gap: .3rem; }
+.hero__chip--a { top: 12%; right: -2%; }
+.hero__chip--b { top: 50%; left: -6%; }
+.hero__chip--c { bottom: 10%; right: 0; }
+@media (max-width: 44.9375em) {
+  .hero { grid-template-columns: 1fr; }
+  .hero__art { max-width: 16rem; }
+}

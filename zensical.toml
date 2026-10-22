@@ -4,6 +4,7 @@ site_description = "A practical wiki for reclaiming attention on every device."
 site_url = "https://noahweidig.com/screentime/"
 copyright = "© 2026 Screentime Solutions · Verify each provider's current terms before relying on a tool."
 extra_css = ["stylesheets/extra.css"]
+extra_javascript = ["javascripts/header.js"]
 repo_url = "https://noahweidig.com/screentime/#pick-your-device"
 repo_name = "Pick your device"
 nav = [
