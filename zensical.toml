@@ -80,12 +80,14 @@ features = [
   "content.code.annotate",
   "content.tooltips",
   "content.footnote.tooltips",
+  "content.action.copy",
   "content.action.view",
   "content.tabs.link",
 ]
 
 [project.theme.icon]
 view = "lucide/eye"
+copy = "lucide/copy"
 repo = "lucide/arrow-right"
 previous = "lucide/arrow-left"
 next = "lucide/arrow-right"
@@ -147,3 +149,11 @@ generator = false
 icon = "lucide/globe"
 link = "https://noahweidig.com/screentime/"
 name = "noahweidig.com/screentime"
+
+[project.plugins.llmstxt]
+full_output = "llms-full.txt"
+
+[project.plugins.llmstxt.sections]
+"Start" = ["index.md", "basics.md"]
+"Devices" = ["iphone/*.md", "android/*.md", "ipad/*.md", "mac/*.md", "windows/*.md"]
+"Resources" = ["resources/*.md"]
