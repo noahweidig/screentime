@@ -2,19 +2,15 @@
 .md-header .md-source {
   display: inline-flex;
   align-items: center;
-  gap: .4rem;
-  padding: .45rem 1rem;
+  gap: .25rem;
+  padding: .25rem .7rem;
   border-radius: 999px;
   background: var(--md-primary-fg-color);
   color: var(--md-primary-bg-color);
 }
 .md-header .md-source__icon { order: 2; width: auto; height: auto; display: flex; }
-.md-header .md-source__icon svg { margin: 0; }
-.md-header .md-source__repository { margin: 0; padding: 0; max-width: none; font-size: .7rem; }
-
-.md-header .md-source { padding: .25rem .7rem; gap: .25rem; }
-.md-header .md-source__repository { font-size: .62rem; }
-.md-header .md-source__icon svg { width: .9rem; height: .9rem; }
+.md-header .md-source__icon svg { margin: 0; width: .9rem; height: .9rem; }
+.md-header .md-source__repository { margin: 0; padding: 0; max-width: none; font-size: .62rem; }
 
 .hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 2rem; align-items: center; padding: 1rem 0 2rem; }
 .hero__text h1 { margin-top: 0; }
