@@ -29,4 +29,20 @@ Apple's Screen Time is a useful foundation, but it is easiest to change when you
 3. Use a Screen Time passcode that differs from your phone passcode.
 4. Ask a trusted person to keep the passcode before adding another layer.
 
+!!! note "Screen Time passcode"
+
+    Screen Time uses a separate 4-digit passcode. Pick one you won't remember or can't reach, then hand it off. Recovery usually needs the Apple Account used at setup (see [Troubleshooting](../resources/troubleshooting.md)).
+
+=== "Downtime"
+
+    Allows only the apps you choose and phone calls during a schedule. Good for nights.
+
+=== "App Limits"
+
+    Daily time caps per app or category. Easy to extend unless the passcode is held by someone else.
+
+=== "Content & Privacy"
+
+    Restricts web content, purchases and settings changes.
+
 Then use the product pages in the left navigation to compare the tools that complement this foundation.
