@@ -20,8 +20,10 @@ hide:
 
 <div class="hero__art" aria-hidden="true" markdown>
 <div class="hero__phone">
+<div class="hero__dial">
 <div class="hero__ring"></div>
 <div class="hero__time">25:00</div>
+</div>
 <div class="hero__label">Focus session</div>
 </div>
 <div class="hero__chip hero__chip--a" markdown>:lucide-shield-check: Sites blocked</div>
