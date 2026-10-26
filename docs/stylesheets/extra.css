@@ -39,3 +39,4 @@
   .hero__chip--b { top: 46%; left: -4%; }
   .hero__chip--c { bottom: 6%; right: -6%; }
 }
+.md-content__inner:has(.hero) > .md-content__button { display: none; }
