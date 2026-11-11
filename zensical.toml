@@ -19,12 +19,14 @@ nav = [
     {"ScreenZen" = "iphone/screenzen.md"},
     {"Freedom" = "iphone/freedom.md"},
     {"Covenant Eyes" = "iphone/covenant-eyes.md"},
+    {"Ripple" = "iphone/ripple.md"},
   ]},
   {"Android" = [
     {"Overview" = "android/index.md"},
     {"one sec" = "android/one-sec.md"},
     {"Freedom" = "android/freedom.md"},
     {"Covenant Eyes" = "android/covenant-eyes.md"},
+    {"Ripple" = "android/ripple.md"},
   ]},
   {"iPad" = [
     {"Overview" = "ipad/index.md"},
