@@ -11,8 +11,6 @@ hide:
 
 # A calmer relationship with screens
 
-**Screentime Solutions** is a practical, device-by-device wiki for putting technology back in its place. Choose blockers, accountability tools, and friction that fit your goals.
-
 [Pick your device](#pick-your-device){ .md-button .md-button--primary }
 [Learn the basics](basics.md){ .md-button }
 
